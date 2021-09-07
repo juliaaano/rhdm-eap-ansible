@@ -1,4 +1,4 @@
-# RHDM Event Listener
+# Red Hat Decision Manager Ansible Installation
 
 **This project is deprectated. Use project [RHPAM EAP Installation](https://github.com/juliaaano/rhpam-eap-ansible) instead.**
 
